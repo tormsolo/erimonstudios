@@ -14,18 +14,19 @@ local_backend: true
 collections:
   - label: "Pages"
     name: "pages"
+    create: true
+    editor:
+      preview: false
     files:
       - label: "Homepage"
         name: "home"
         file: "src/index.md"
-        preview: false,
         fields:
           - { label: Title, name: title, widget: string }
           - { label: "Body", name: "body", widget: "markdown" }
       - label: "About"
         name: "about"
         file: "src/about.md"
-        preview: false,
         fields:
           - { label: Title, name: title, widget: string }
           - { label: "Body", name: "body", widget: "markdown" }
