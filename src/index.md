@@ -13,6 +13,6 @@ Eamon Enjoys working across multiple disciplines with a strong focus on learning
 
 If you wish to work together on a project, don’t hesitate to drop me a line. Or give me a call on +31 6 29316649. If you are feeling particularly bored, you can also check me out on:
 
-<p>Instagram</p>
+Instagram
 
-<p>LinkedIn</p>
+LinkedIn
