@@ -1,0 +1,6 @@
+---
+items:
+  - text: About
+    url: "/about"
+  - text: Portfolio
+    url: "/portfolio"
