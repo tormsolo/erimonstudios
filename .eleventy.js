@@ -62,5 +62,6 @@ module.exports = function (eleventyConfig) {
       input: "src",
     },
     htmlTemplateEngine: "njk",
+    markdownTemplateEngine: "liquid"
   };
 };
